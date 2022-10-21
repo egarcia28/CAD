@@ -17,15 +17,20 @@ I, as student B (Student A was [Josiah Patterson](https://github.com/jpatter43/C
 Link to our Onshape doc [here](https://cvilleschools.onshape.com/documents/e2d25fcf5aacfbd11b39abe4/w/ac902f69cc0a64357db4dff9/e/081d1e720ed8c49beea06c70).
 
 The Spinner
+
 ![Capture](https://user-images.githubusercontent.com/112961319/197239929-9a6fa131-ea7c-455f-a4e5-4d3baa910fe5.PNG)
+
 Spinner + Prop
+
 ![Screenshot 2022-10-21 12 19 01 PM](https://user-images.githubusercontent.com/112961319/197242662-3dc07d98-5a70-4f8c-8875-59211f26879c.png)
+
 Edits to prop
+
 ![Screenshot 2022-10-21 12 18 43 PM](https://user-images.githubusercontent.com/112961319/197242685-c6cbccb6-0e63-4af3-ac88-c5d9d3f4d67e.png)
 ### Reflection
-The spinner was relatively straight forward, other than the helix and sweep tools which were new to me. When making the prop, I ran into some trouble with the center of the prop but it was an easy fix, I just had to fix some of the merge scopes. For the personal edits to the prop, I added more prop blades and reduced their size.
+The spinner was relatively straight forward, other than the helix and sweep tools which were new to me. When making the prop, I ran into some trouble with the center of the prop but it was an easy fix, I just had to fix some of the merge scopes. For the personal edits to the prop, I added more prop blades and reduced their size in order to increase the        567u
 
-Both the prop and spinner
+
 ## CAD_SwingArm
 
 ### Description

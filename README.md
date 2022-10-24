@@ -27,15 +27,28 @@ Spinner + Prop
 Edits to prop
 
 ![Screenshot 2022-10-21 12 18 43 PM](https://user-images.githubusercontent.com/112961319/197242685-c6cbccb6-0e63-4af3-ac88-c5d9d3f4d67e.png)
+
 ### Reflection
-The spinner was relatively straight forward, other than the helix and sweep tools which were new to me. When making the prop, I ran into some trouble with the center of the prop but it was an easy fix, I just had to fix some of the merge scopes. For the personal edits to the prop, I added more prop blades and reduced their size in order to increase the        567u
+The spinner was relatively straight forward, other than the helix and sweep tools which were new to me. When making the prop, I ran into some trouble with the center of the prop but it was an easy fix, I just had to fix some of the merge scopes. For the personal edits to the prop, I added more prop blades and reduced their size in order to increase the lift produced.
 
 
 ## CAD_SwingArm
 
 ### Description
-
+For this assignment we were tasked to create a part with very few direct dimensions, the intent of the assignment to prepare for the onshape certification test where we will be given simmilar task. One of the more interesting aspects of this assighnment is the constraints which in combination with a few dimensions created a very clean and well designed part. The next step of this assignment was to change some dimensions to expose the weaknesses in your constraints.
 ### Evidence
+Link to my onshape doc,[here](https://cvilleschools.onshape.com/documents/63193e990799276a8b286714/w/75c6481a7714cafa6a0dff0b/e/595816b047ea5bd66d5b0dc5?renderMode=0&rightPanel=variableTablePanel&uiState=635694255902f51d731057ae)
+Sketch
+
+![swing arm sketch](https://user-images.githubusercontent.com/112961319/197537826-1cb59915-9afb-4aa1-a134-e95e0e6aca54.PNG)
+
+Step 1 Isometric
+
+![sa isometric](https://user-images.githubusercontent.com/112961319/197537939-ee02db27-bf88-49e1-9012-39be8995c7f2.PNG)
+
+Step 2 Isometric
+
+![sa 2 isometric](https://user-images.githubusercontent.com/112961319/197538038-8c72680c-3259-4c58-bc37-b07d5362c5e4.PNG)
 
 ### Reflection
 

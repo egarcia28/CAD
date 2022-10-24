@@ -37,7 +37,7 @@ The spinner was relatively straight forward, other than the helix and sweep tool
 ### Description
 For this assignment we were tasked to create a part with very few direct dimensions, the intent of the assignment to prepare for the onshape certification test where we will be given simmilar task. One of the more interesting aspects of this assighnment is the constraints which in combination with a few dimensions created a very clean and well designed part. The next step of this assignment was to change some dimensions to expose the weaknesses in your constraints.
 ### Evidence
-Link to my onshape doc,[here](https://cvilleschools.onshape.com/documents/63193e990799276a8b286714/w/75c6481a7714cafa6a0dff0b/e/595816b047ea5bd66d5b0dc5?renderMode=0&rightPanel=variableTablePanel&uiState=635694255902f51d731057ae)
+Link to my onshape doc [here](https://cvilleschools.onshape.com/documents/63193e990799276a8b286714/w/75c6481a7714cafa6a0dff0b/e/595816b047ea5bd66d5b0dc5?renderMode=0&rightPanel=variableTablePanel&uiState=635694255902f51d731057ae)
 Sketch
 
 ![swing arm sketch](https://user-images.githubusercontent.com/112961319/197537826-1cb59915-9afb-4aa1-a134-e95e0e6aca54.PNG)

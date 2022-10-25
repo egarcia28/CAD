@@ -64,13 +64,13 @@ The intent of this assignment, much like the swing arm was to prepare us for the
 ### Evidence
 
 
-Section Veiw
 ![197540188-59d9067b-9ce1-430b-801f-7ea34a66ca0c](https://user-images.githubusercontent.com/112961319/197793785-86cb06a5-5d64-4ca8-9ed7-55573453dc4a.png)
+Image credit gies to [Grant Gastinger](https://github.com/ggastin30/Intermediate_CAD)
+Section Veiw
 
-Isometric Veiw
 ![197540567-53378404-1ea8-45d6-8755-3ce2dd765e38](https://user-images.githubusercontent.com/112961319/197793937-7f6c1eea-1328-41c8-9851-8e698ea26b84.png)
-
-
+Image credit gies to [Grant Gastinger](https://github.com/ggastin30/Intermediate_CAD)
+Isometric Veiw
 ### Reflection
 
 

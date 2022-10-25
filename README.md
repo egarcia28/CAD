@@ -51,11 +51,11 @@ Step 2 Isometric
 ![sa 2 isometric](https://user-images.githubusercontent.com/112961319/197538038-8c72680c-3259-4c58-bc37-b07d5362c5e4.PNG)
 
 ### Reflection
-
+When first building the swing arm, rather than focus on constraining the sketrch before dimensioning it, I did the opposite which led to alot of broken and overdefined constraints and dimensions. After this I restarted after I not-so-willingly let Mr. H delete my progress, but when I started only with constraints I made quick progress and had it done within the class.
 
 ## CAD_MultiPartStudio
 
-### Description & Code
+### Description
 
 ### Evidence
 

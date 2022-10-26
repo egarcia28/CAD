@@ -62,7 +62,7 @@ For the last section, the goal was to learn and use versions and branches so tha
 
 _My Edits to the Prop_
 ##### Reflection
-For the personal edits to the prop, I added more prop blades and reduced their size in order to increase the lift produced.
+For the personal edits to the prop, I added more prop blades and reduced their size in order to increase the lift produced. I also removed material from the bottom to decrease weight and hopefully increase the height it would launch.33
 
 ## CAD_SwingArm
 
@@ -88,7 +88,7 @@ When first building the swing arm, rather than focus on constraining the sketrch
 ## CAD_MultiPartStudio
 
 ### Description
-The intent of this assignment, much like the swing arm was to prepare us for the onshape certification test. The goal of this assignment being to prepare for the multi-part studio aspect of the certification test. This specific practice was to model a vaccum pump, using a singular part studio.
+The intent of this assignment, much like the swing arm was to prepare us for the onshape certification test. The goal of this assignment being to prepare for the multi-part studio aspect of the certification test. This specific practice was to model a vaccum pump, using a singular part studio. Similarlly to the swing arm, there were multiple steps/dimension changes to expose different waknesses/flaws in our design.
 ### Evidence
 
 

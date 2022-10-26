@@ -46,6 +46,10 @@ The goal for this section of the assignment was to assemble all of the parts we 
 ![image](https://user-images.githubusercontent.com/112961319/198029870-b9ab2447-e8d1-415f-8160-b0e40509a1bf.png)
 
 Our Pull Copter Assembly
+
+![image](https://user-images.githubusercontent.com/112961319/198035778-49edf646-9282-4766-8481-57e8f2220684.png)
+
+The Rack and Pinion Interaction between the Key and Spinner
 ##### Reflection
 
 #### 4.4 - 4.5 Branching and Merging

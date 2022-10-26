@@ -40,9 +40,12 @@ Creating the prop, although no new tools were used, came with it's own challenge
 #### 4.3 Teamwork! Assembling the Launcher
 
 ##### Description
-
+The goal for this section of the assignment was to assemble all of the parts we had made up to this point into the final pull copter. The spinner sat in between the top and the ring and the key slid into the top and formed a rack and pinion with the spinner, finally the prop sat on top of the spinner and moved with it so that when the key was pulled it would fly
 ##### Evidence
 
+![image](https://user-images.githubusercontent.com/112961319/198029870-b9ab2447-e8d1-415f-8160-b0e40509a1bf.png)
+
+Our Pull Copter Assembly
 ##### Reflection
 
 #### 4.4 - 4.5 Branching and Merging

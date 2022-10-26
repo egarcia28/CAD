@@ -58,6 +58,9 @@ Assembling the pull copter was very simple, and we only used tools we had used b
 For the last section, the goal was to learn and use versions and branches so that each partner could create their own prop design.
 ##### Evidence
 
+![Capture](https://user-images.githubusercontent.com/112961319/198086384-76a939f8-34fd-4041-8e90-db6bf653743f.PNG)
+
+_My Edits to the Prop_
 ##### Reflection
 For the personal edits to the prop, I added more prop blades and reduced their size in order to increase the lift produced.
 

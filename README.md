@@ -55,7 +55,7 @@ Assembling the pull copter was very simple, and we only used tools we had used b
 #### 4.4 - 4.5 Branching and Merging
 
 ##### Description
-
+For the last section, the goal was to learn and use versions and branches so that each partner could create their own prop design.
 ##### Evidence
 
 ##### Reflection

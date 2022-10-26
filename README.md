@@ -51,7 +51,7 @@ _Our Pull Copter Assembly_
 
 _The Rack and Pinion Interaction between the Key and Spinner_
 ##### Reflection
-
+Assembling the pull copter was very simple, and we only used tools we had used before. One of the more interesting aspects of this assignment was finding the number of rotations the spinner made from one pull of the key.
 #### 4.4 - 4.5 Branching and Merging
 
 ##### Description
@@ -70,15 +70,15 @@ Link to my onshape doc [here](https://cvilleschools.onshape.com/documents/63193e
 
 ![swing arm sketch](https://user-images.githubusercontent.com/112961319/197537826-1cb59915-9afb-4aa1-a134-e95e0e6aca54.PNG)
 
-Sketch
+_Sketch_
 
 ![sa isometric](https://user-images.githubusercontent.com/112961319/197537939-ee02db27-bf88-49e1-9012-39be8995c7f2.PNG)
 
-Step 1 Isometric
+_Step 1 Isometric_
 
 ![sa 2 isometric](https://user-images.githubusercontent.com/112961319/197538038-8c72680c-3259-4c58-bc37-b07d5362c5e4.PNG)
 
-Step 2 Isometric
+_Step 2 Isometric_
 ### Reflection
 When first building the swing arm, rather than focus on constraining the sketrch before dimensioning it, I did the opposite which led to alot of broken and overdefined constraints and dimensions. After this I restarted after I not-so-willingly let Mr. H delete my progress, but when I started only with constraints I made quick progress and had it done within the class.
 
@@ -93,13 +93,13 @@ The intent of this assignment, much like the swing arm was to prepare us for the
 
 Image credit gies to [Grant Gastinger](https://github.com/ggastin30/Intermediate_CAD)
 
-Section Veiw
+_Section Veiw_
 
 ![197540567-53378404-1ea8-45d6-8755-3ce2dd765e38](https://user-images.githubusercontent.com/112961319/197793937-7f6c1eea-1328-41c8-9851-8e698ea26b84.png)
 
 Image credit gies to [Grant Gastinger](https://github.com/ggastin30/Intermediate_CAD)
 
-Isometric Veiw
+_Isometric Veiw_
 ### Reflection
 
 

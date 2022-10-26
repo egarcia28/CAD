@@ -22,7 +22,7 @@ For this section of the assignmnet the goal for me (student b) was to create the
 
 ![197239929-9a6fa131-ea7c-455f-a4e5-4d3baa910fe5](https://user-images.githubusercontent.com/112961319/198025026-d3902f64-4cc0-434e-9433-d9f1694c3a4f.png)
 
-The spinner
+_The Spinner_
 ##### Reflection
 I found that creating the spinner was relatively straight forward with the only new tool used being the "new part studio in context" and "helix" both of which I found really helpful and will most definitly be using in the future.
 
@@ -34,7 +34,7 @@ For this section of the assignmnet the goal for me (student b) was to create the
 
 ![197242662-3dc07d98-5a70-4f8c-8875-59211f26879c](https://user-images.githubusercontent.com/112961319/198026788-f04feb4c-02d2-4893-b5c8-f63dd0381378.png)
 
-The prop and spinner
+_The Prop and Spinner_
 ##### Reflection
 Creating the prop, although no new tools were used, came with it's own challenges for me. For example, the center of the prop was incorrect ar first, due to some bad merge scopes and sketches.
 #### 4.3 Teamwork! Assembling the Launcher
@@ -45,11 +45,11 @@ The goal for this section of the assignment was to assemble all of the parts we 
 
 ![image](https://user-images.githubusercontent.com/112961319/198029870-b9ab2447-e8d1-415f-8160-b0e40509a1bf.png)
 
-Our Pull Copter Assembly
+_Our Pull Copter Assembly_
 
 ![image](https://user-images.githubusercontent.com/112961319/198035778-49edf646-9282-4766-8481-57e8f2220684.png)
 
-The Rack and Pinion Interaction between the Key and Spinner
+_The Rack and Pinion Interaction between the Key and Spinner_
 ##### Reflection
 
 #### 4.4 - 4.5 Branching and Merging

@@ -91,18 +91,28 @@ When first building the swing arm, rather than focus on constraining the sketrch
 The intent of this assignment, much like the swing arm was to prepare us for the onshape certification test. The goal of this assignment being to prepare for the multi-part studio aspect of the certification test. This specific practice was to model a vaccum pump, using a singular part studio. Similarlly to the swing arm, there were multiple steps/dimension changes to expose different waknesses/flaws in our design.
 ### Evidence
 
+![Untitled](https://user-images.githubusercontent.com/112961319/198096296-6509aeca-c036-46d8-a270-ed12b56eb764.jpg)
 
-![197540188-59d9067b-9ce1-430b-801f-7ea34a66ca0c](https://user-images.githubusercontent.com/112961319/197793785-86cb06a5-5d64-4ca8-9ed7-55573453dc4a.png)
-
+_Isometric + Section veiw of Step 1_
 Image credit gies to [Grant Gastinger](https://github.com/ggastin30/Intermediate_CAD)
 
-_Section Veiw_
 
-![197540567-53378404-1ea8-45d6-8755-3ce2dd765e38](https://user-images.githubusercontent.com/112961319/197793937-7f6c1eea-1328-41c8-9851-8e698ea26b84.png)
+![qawsedrftrguyfjfdrshaliyrtfoilhafdslkgskdjfg](https://user-images.githubusercontent.com/112961319/198096910-5787efe9-90df-4335-90ae-f889ebc967cf.jpg)
 
+_Isometric + Section veiw of Step 2_
 Image credit gies to [Grant Gastinger](https://github.com/ggastin30/Intermediate_CAD)
 
-_Isometric Veiw_
+
+![SGWFVI23GV3OEHWKULHGWEVOUHGDVUHG127634529874356239846219384672198746139874613987464193287649182734612938746](https://user-images.githubusercontent.com/112961319/198097747-a423a87c-83f1-463d-be9a-38385142750a.jpg)
+
+_Isometric + Section veiw of Step 3_
+Image credit gies to [Grant Gastinger](https://github.com/ggastin30/Intermediate_CAD)
+
+![!@#%#^ %$#@^%$#^%$#^%$#^%$#^%$#^%$#^%$#^%$#^%$#^%$#^%$#^%$#](https://user-images.githubusercontent.com/112961319/198098987-f308a17c-ea52-4945-92ff-df5c975c21bd.jpg)
+
+_Isometric + Section veiw of Step 4_
+Image credit gies to [Grant Gastinger](https://github.com/ggastin30/Intermediate_CAD)
+
 ### Reflection
-
+I ran into very few problems when first designing the multi-part studio, but when I went to change the dimensions, I ran into several problems where my design was subpar. For exaple, when making the hole in the top and bottom for the cylinder, I had used a sketch and extrude, rather than a boolean.
 

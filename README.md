@@ -114,5 +114,5 @@ _Isometric + Section veiw of Step 4_
 Image credit gies to [Grant Gastinger](https://github.com/ggastin30/Intermediate_CAD)
 
 ### Reflection
-I ran into very few problems when first designing the multi-part studio, but when I went to change the dimensions, I ran into several problems where my design was subpar. For exaple, when making the hole in the top and bottom for the cylinder, I had used a sketch and extrude, rather than a boolean.
+I ran into very few problems when first designing the multi-part studio, but when I went to change the dimensions, I encountered several problems and areas where my design was lacking. For exaple, when making the hole in the top and bottom for the cylinder, I had used a sketch and extrude, rather than a boolean.
 

@@ -92,6 +92,7 @@ When first building the swing arm, rather than focus on constraining the sketrch
 ### Description
 The intent of this assignment, much like the swing arm was to prepare us for the onshape certification test. The goal of this assignment being to prepare for the multi-part studio aspect of the certification test. This specific practice was to model a vaccum pump, using a singular part studio. Similarlly to the swing arm, there were multiple steps/dimension changes to expose different waknesses/flaws in our design.
 ### Evidence
+Link to my onshape doc [here](https://cvilleschools.onshape.com/documents/14b0c57cafa035eb95bd546d/w/719b063fd68938765fbdc7f6/e/d97b82996295e98e89af19d0)
 
 ![mp 1](https://user-images.githubusercontent.com/112961319/236220441-923a661b-8bfa-4c97-afda-cd42dd69eb80.PNG)
 
@@ -106,3 +107,4 @@ I ran into very few problems when first designing the multi-part studio, but whe
 https://ti-user-certificates.s3.amazonaws.com/6e557ed6-d03d-4c48-9492-4d18d145d7a1/79a719aa-1bbb-449a-b6cc-cd9cb4db34f0-elias-garca-d9d7faf4-7ed8-42ef-a23f-38243fe8f484-certificate.pdf
 
 ### Reflection
+ While practicing for the Onshape certification exam, I focused on what I though would be my weaknesses, namely the multipart design. I also did alot of practice on the single part studio assignments. I would say that for the most part, both of the practices I focused on really helped for the exam, because the questions on the exam were practically identical to those in the practices. Overall the exam itself was mostly straightforward and I was fairly confident in my ability to do well. I had a harder time than I expected on the multiple choice section, but the practice multiple choice helped me know what to expect.

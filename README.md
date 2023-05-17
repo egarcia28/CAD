@@ -1,4 +1,4 @@
-# IntermediateCAD
+# CAD
 
 
 ## Table of Contents

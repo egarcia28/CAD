@@ -5,7 +5,7 @@
 * [CAD_PullCopter](#CAD_PullCopter)
 * [CAD_SwingArm](#CAD_SwingArm)
 * [CAD_MultiPartStudio](#CAD_MultiPartStudio)
-* [Onshape Certification](#Onshape_Certification)
+* [Onshape_Certification](#Onshape_Certification)
 ---
 
 
@@ -101,7 +101,7 @@ Link to my onshape doc [here](https://cvilleschools.onshape.com/documents/14b0c5
 ### Reflection
 I ran into very few problems when first designing the multi-part studio, but when I went to change the dimensions, I encountered several problems and areas where my design was lacking. For exaple, when making the hole in the top and bottom for the cylinder, I had used a sketch and extrude, rather than a boolean.
 
-## Onshape Certification
+## Onshape_Certification
 
 ### Certification
 https://ti-user-certificates.s3.amazonaws.com/6e557ed6-d03d-4c48-9492-4d18d145d7a1/79a719aa-1bbb-449a-b6cc-cd9cb4db34f0-elias-garca-d9d7faf4-7ed8-42ef-a23f-38243fe8f484-certificate.pdf

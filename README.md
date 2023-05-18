@@ -110,9 +110,11 @@ This was the final assignment built to prepare us for the onshape certification 
 Link to my onshape doc [here](https://cvilleschools.onshape.com/documents/34480aba8fa4cfa3f9ea501c/w/61174a71ccee016b876c6560/e/7ed442ef720610bd33b1f6cd?renderMode=0&uiState=646578ca45ee310658ea9a58)
 
 <img width="313" alt="Screenshot 2023-05-17 205739" src="https://github.com/egarcia28/CAD/assets/112961319/fe1ecdd6-ce77-48d5-826a-062552f3fe1d">
+
 _Image 1_
 
 <img width="223" alt="Screenshot 2023-05-17 205825" src="https://github.com/egarcia28/CAD/assets/112961319/0a758323-9162-44a0-a965-d7a6f5cdc0f5">
+
 _Iamge 2_
 
 

@@ -5,6 +5,7 @@
 * [CAD_PullCopter](#CAD_PullCopter)
 * [CAD_SwingArm](#CAD_SwingArm)
 * [CAD_MultiPartStudio](#CAD_MultiPartStudio)
+* [CAD_Assemblies](#CAD_Assemblies)
 * [Onshape_Certification](#Onshape_Certification)
 ---
 
@@ -100,6 +101,23 @@ Link to my onshape doc [here](https://cvilleschools.onshape.com/documents/14b0c5
 
 ### Reflection
 I ran into very few problems when first designing the multi-part studio, but when I went to change the dimensions, I encountered several problems and areas where my design was lacking. For exaple, when making the hole in the top and bottom for the cylinder, I had used a sketch and extrude, rather than a boolean.
+
+## CAD_Assemblies
+
+### Description
+This was the final assignment built to prepare us for the onshape certification exam. It was pretty much an exact replica of the actual assembly portion of the exam.
+### Evidence
+Link to my onshape doc [here](https://cvilleschools.onshape.com/documents/34480aba8fa4cfa3f9ea501c/w/61174a71ccee016b876c6560/e/7ed442ef720610bd33b1f6cd?renderMode=0&uiState=646578ca45ee310658ea9a58)
+
+<img width="313" alt="Screenshot 2023-05-17 205739" src="https://github.com/egarcia28/CAD/assets/112961319/fe1ecdd6-ce77-48d5-826a-062552f3fe1d">
+_Image 1_
+
+<img width="223" alt="Screenshot 2023-05-17 205825" src="https://github.com/egarcia28/CAD/assets/112961319/0a758323-9162-44a0-a965-d7a6f5cdc0f5">
+_Iamge 2_
+
+
+### Reflection
+Although I diddn't actually complete this assignment until after the onshape certification exam, I still found it remarkablely simmilar to the actual exam, and I would likely use this assignment to practice if I were to take the exam again.
 
 ## Onshape_Certification
 
